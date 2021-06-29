@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Car_Managent</string>
+    <string name="buy">Buy</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
